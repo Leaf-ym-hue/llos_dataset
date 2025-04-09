@@ -1,4 +1,4 @@
-# 户外数据集
+# outdoor_dataset
 outdoor_dataset
 ├── train
 │   ├── high
