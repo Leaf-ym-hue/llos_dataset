@@ -1,5 +1,5 @@
 
-## Training Set
+## Train
 
 The training set contains 420 images, divided into two categories: high-light and low-light.
 
@@ -10,7 +10,7 @@ The training set contains 420 images, divided into two categories: high-light an
   - Outdoor_20250223(1).jpg
   - Outdoor_20250223(2).jpg
 
-## Test Set
+## Test
 
 The test set contains 180 images, structured similarly to the training set, and divided into high-light and low-light categories.
 
