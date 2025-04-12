@@ -23,7 +23,7 @@ The test contains 180 images, structured similarly to the train, and divided int
 
 ## Data Usage
 
-This dataset can be used for training and testing algorithms and models in fields such as low-light image processing, object detection, and reinforcement learning.
+This dataset can be used for training and testing algorithms and models in fields such as low-light image processing.
 
 ## License
 
