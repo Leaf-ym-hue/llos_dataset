@@ -6,9 +6,13 @@ The train contains 840 images, evenly divided into two categories: high and low.
 - High
   - Outdoor_20250223(1).jpg
   - Outdoor_20250223(2).jpg
+  - ……
+  - Outdoor_20250223(420).jpg
 - Low
   - Outdoor_20250223(1).jpg
   - Outdoor_20250223(2).jpg
+  - ……
+  - Outdoor_20250223(420).jpg
 
 ## test
 
@@ -17,9 +21,13 @@ The test contains 360 images, structured similarly to the train, and evenly divi
 - High
   - Outdoor_20250223(421).jpg
   - Outdoor_20250223(422).jpg
+  - ……
+  - Outdoor_20250223(600).jpg
 - Low
   - Outdoor_20250223(421).jpg
   - Outdoor_20250223(422).jpg
+  - ……
+  - Outdoor_20250223(600).jpg
 
 ## Data Usage
 
