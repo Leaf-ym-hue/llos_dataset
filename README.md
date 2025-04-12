@@ -1,17 +1,30 @@
-# 低光户外场景数据集
-自然低光户外场景数据集包含600对户外场景图像。目标具有不同的尺度，背景环境复杂。数据集按照7:3的比例分为训练集和测试集。训练集包含420张图像，测试集包含180张图像。
-户外数据集
-│   训练
-│ ├── 高
-│ │ ├── 户外_20250223(1).jpg
-│ │ ├── 户外_20250223(2).jpg
-│ ├── 低
-│ │ ├── 户外_20250223(1).jpg
-│ │ ├── 户外_20250223(2).jpg
-测试
-│ ├── 高
-│ │ ├── 户外_20250223(421).jpg
-│ │ ├── 户外_20250223(422).jpg
-│ ├── 低
-│ │ ├── 户外_20250223(421).jpg
-│ │ ├── 户外_20250223(422).jpg
+
+## Training Set
+
+The training set contains 420 images, divided into two categories: high-light and low-light.
+
+- **High-light**: Images with stronger lighting in the scene.
+  - Outdoor_20250223(1).jpg
+  - Outdoor_20250223(2).jpg
+- **Low-light**: Images with weaker lighting in the scene.
+  - Outdoor_20250223(1).jpg
+  - Outdoor_20250223(2).jpg
+
+## Test Set
+
+The test set contains 180 images, structured similarly to the training set, and divided into high-light and low-light categories.
+
+- **High-light**: Images with stronger lighting in the scene.
+  - Outdoor_20250223(421).jpg
+  - Outdoor_20250223(422).jpg
+- **Low-light**: Images with weaker lighting in the scene.
+  - Outdoor_20250223(421).jpg
+  - Outdoor_20250223(422).jpg
+
+## Data Usage
+
+This dataset can be used for training and testing algorithms and models in fields such as low-light image processing, object detection, and reinforcement learning.
+
+## License
+
+Please follow the [license agreement](#) for the use of this dataset.
