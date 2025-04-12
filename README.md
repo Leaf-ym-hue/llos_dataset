@@ -1,7 +1,7 @@
 
 ## train
 
-The train contains 420 images, divided into two categories: high and low.
+The train contains 840 images, evenly divided into two categories: high and low.
 
 - High
   - Outdoor_20250223(1).jpg
@@ -12,7 +12,7 @@ The train contains 420 images, divided into two categories: high and low.
 
 ## test
 
-The test contains 180 images, structured similarly to the train, and divided into high and low categories.
+The test contains 360 images, structured similarly to the train, and evenly divided into high and low categories.
 
 - High
   - Outdoor_20250223(421).jpg
