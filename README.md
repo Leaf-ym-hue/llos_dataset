@@ -1,18 +1,4 @@
 
-## train
-
-The train contains 840 images, evenly divided into two categories: high and low.
-
-- High
-  - Outdoor_20250223(1).jpg
-  - Outdoor_20250223(2).jpg
-  - ……
-  - Outdoor_20250223(420).jpg
-- Low
-  - Outdoor_20250223(1).jpg
-  - Outdoor_20250223(2).jpg
-  - ……
-  - Outdoor_20250223(420).jpg
 
 ## test
 
